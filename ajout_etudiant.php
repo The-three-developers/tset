@@ -12,4 +12,6 @@ echo 'succes';
 }else{
 echo "error".$sql."<br>".$a->error;
 }
+
+echo"hi";
 ?>
