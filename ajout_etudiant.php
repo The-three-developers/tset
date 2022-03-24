@@ -13,5 +13,5 @@ echo 'succes';
 echo "error".$sql."<br>".$a->error;
 }
 
-echo"hi";
+echo"ayman";
 ?>
