@@ -14,4 +14,7 @@ echo "error".$sql."<br>".$a->error;
 }
 
 echo"ayman";
+echo"sir bhalk";
+
+
 ?>
