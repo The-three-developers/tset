@@ -6,5 +6,5 @@
      if($a->connect_error){
         die("pb connetion".$a -> connect_error);
      }
-     
+     echo "hello"
    ?>
